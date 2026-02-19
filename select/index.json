@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Psychosocial",
+  "base_artist": "Slipknot",
+  "createdAt": "2026-02-19T11:56:54.601444Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Psychosocial",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/01_Psychosocial_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Psychosocial",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/02_Psychosocial_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Psychosocial (Live At Download Festival 2009)",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/03_Psychosocial_(Live_At_Download_Festival_2009)_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Psychosocial (Live At Download Festival 2009)",
+      "artist": "Slipknot",
+      "has_synced": false,
+      "path": "select/04_Psychosocial_(Live_At_Download_Festival_2009)_Slipknot.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Psychosocial",
+      "artist": "Brooke Fraser",
+      "has_synced": true,
+      "path": "select/05_Psychosocial_Brooke_Fraser.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Psychosocial (Radio Edit)",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/06_Psychosocial_(Radio_Edit)_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Psychosocial",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/07_Psychosocial_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Psychosocial",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/08_Psychosocial_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Psychosocial (album version)",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/09_Psychosocial_(album_version)_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Psychosocial Baby",
+      "artist": "Isosine",
+      "has_synced": true,
+      "path": "select/10_Psychosocial_Baby_Isosine.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Psychosocial Baby (Justin Bieber vs. Slipknot)",
+      "artist": "Isosine",
+      "has_synced": true,
+      "path": "select/11_Psychosocial_Baby_(Justin_Bieber_vs._Slipknot)_Isosine.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Psychosocial",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/12_Psychosocial_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Psychosocial - Live at Madison Square Garden 2/5/2009",
+      "artist": "Slipknot",
+      "has_synced": false,
+      "path": "select/13_Psychosocial_-_Live_at_Madison_Square_Garden_2_5_2009_Slipknot.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Psychosocial (2012 Remaster)",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/14_Psychosocial_(2012_Remaster)_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Psychosocial - Live",
+      "artist": "Slipknot",
+      "has_synced": false,
+      "path": "select/15_Psychosocial_-_Live_Slipknot.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Psychosocial (Live)",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/16_Psychosocial_(Live)_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Psychosocial",
+      "artist": "スリップノット",
+      "has_synced": true,
+      "path": "select/17_Psychosocial_スリップノット.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Psychosocial",
+      "artist": "Slipknot",
+      "has_synced": false,
+      "path": "select/pl_01_Psychosocial_Slipknot.txt"
+    }
+  ]
+}
